@@ -2,7 +2,7 @@
   <img src="Netflix%20TV%20Shows%20and%20Movies%20Analysis/assets/logo/Netflix%20Logo.png" alt="Netflix Logo" width="400">
 </p>
 
-# Netflix Content Strategy Analysis
+# Netflix TV Shows & Movies Analysis
 
 ## Project Overview
 This project provides a comprehensive data-driven analysis of the Netflix library. Using **Power BI**, I transformed raw dataset records into actionable insights regarding content growth, regional distribution, and audience ratings. The analysis focuses on identifying the strategic shift between Movies and TV Shows and how Netflix targets different global markets.
