@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Netflix%20TV%20Shows%20and%20Movies%20Analysis/assets/logo/Netflix%20Logo.png" alt="Netflix Logo" width="300">
+  <img src="Netflix%20TV%20Shows%20and%20Movies%20Analysis/assets/logo/Netflix%20Logo.png" alt="Netflix Logo" width="400">
 </p>
 
 # Netflix Content Strategy Analysis
