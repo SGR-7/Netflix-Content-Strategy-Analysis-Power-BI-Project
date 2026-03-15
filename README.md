@@ -39,7 +39,6 @@ The dashboard is designed for high scannability and professional aesthetic, feat
 | File Name | Description |
 | :--- | :--- |
 | **Netflix TV Shows and Movies Analysis.pbix** | The complete, interactive Power BI report file. |
-| **dashboard.pdf** | A portable, high-quality export of the final dashboard view. |
 | **Netflix TV Shows and Movies.csv** | The source dataset containing over 8,000 records. |
 | **Red Theme.json** | The custom JSON configuration for the "Netflix-style" visual theme. |
 | **World Map.json** | The custom map file used for geographic visualizations. |
